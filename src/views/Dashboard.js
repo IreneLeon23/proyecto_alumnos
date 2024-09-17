@@ -549,7 +549,7 @@ function Dashboard() {
                   </Col>
                   <Col md="8" xs="7">
                     <div className="numbers">
-                      <p className="card-category">ALUMNO 14</p>
+                      <p className="card-category">ALUMNO 15</p>
                       <CardTitle tag="p">Irene Leon</CardTitle>
                       <p />
                     </div>
@@ -583,7 +583,7 @@ function Dashboard() {
                   </Col>
                   <Col md="8" xs="7">
                     <div className="numbers">
-                      <p className="card-category">ALUMNO 14</p>
+                      <p className="card-category">ALUMNO 16</p>
                       <CardTitle tag="p">Luis Luna</CardTitle>
                       <p />
                     </div>
@@ -617,7 +617,7 @@ function Dashboard() {
                   </Col>
                   <Col md="8" xs="7">
                     <div className="numbers">
-                      <p className="card-category">ALUMNO 14</p>
+                      <p className="card-category">ALUMNO 17</p>
                       <CardTitle tag="p">Samuel reyna</CardTitle>
                       <p />
                     </div>
@@ -651,7 +651,7 @@ function Dashboard() {
                   </Col>
                   <Col md="8" xs="7">
                     <div className="numbers">
-                      <p className="card-category">ALUMNO 14</p>
+                      <p className="card-category">ALUMNO 18</p>
                       <CardTitle tag="p">Mauro Zaldivar</CardTitle>
                       <p />
                     </div>
