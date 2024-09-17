@@ -50,9 +50,11 @@
     "gulp": "4.0.2",
     "gulp-append-prepend": "1.0.9"
   },
-  
-  "engines": {
-  "node": "16.x"
+
+"engines": {
+  "node": "16.x",
+  "npm": "7.x"
 }
+
 
 }
