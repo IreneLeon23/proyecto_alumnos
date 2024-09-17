@@ -28,7 +28,7 @@ import gurrola from "../assets/img/GurrolaAntuna.jpg";
 import herrerao from "../assets/img/Herrera_Ortiz.jpg";
 import ibarra from "../assets/img/Ibarra.JPG";
 import img from "../assets/img/IMG_20240912_164657-transformed.jpeg";
-import leon from "../assets/img/Leon_Quintana.png";
+import leon from "../assets/img/Leon_Quintanaaa.jpeg";
 import luna from "../assets/img/luna.jpeg";
 import manzanilla from "../assets/img/manzanilla.jpg";
 import ontiveros from "../assets/img/ontiveros.png";
@@ -63,6 +63,7 @@ function Dashboard() {
     <>
       <div className="content">
         <Row>
+         
           <Col lg="3" md="6" sm="6">
             <Card className="card-stats">
               <CardBody>
